@@ -1,11 +1,11 @@
 # GPT-Telegram-Bot: Multifunctional AI Assistant 🤖💬
 
-[English](./README.md) | [简体中文](./docs/README.zh-cn.md) | [繁體中文](./docs/README.zh-hant.md) | [日本語](./docs/README.ja.md) | [Español](./docs/README.es.md) | [Français](./docs/README.fr.md) | [Русский](./docs/README.ru.md) | [Deutsch](./docs/README.de.md)
+[English](./README.md) | [Русский](./docs/README.ru.md)
 
 GPT-Telegram-Bot is a powerful Telegram bot that integrates various AI models, providing intelligent conversations, image generation and analysis capabilities.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2enotkrutoy%2FGPT-Telegram-Bot)
-#[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourname%2FGPT-Telegram-Bot)
+
 ## Main Features 🌟
 
 1. **Multi-model Support** 🎭: Any model compatible with OpenAI API, Google Gemini, Anthropic Claude, Groq, and Azure OpenAI
@@ -72,7 +72,7 @@ GPT-Telegram-Bot/
 
 - [Vercel](https://vercel.com/) account
 - Telegram account and Bot Token
-- [Upstash](https://upstash.com/) Please select the Redis database and enable the [Eviction](https://upstash.com/docs/redis/features/eviction) feature
+
 - API key for at least one AI service
 
 ### Deployment Steps
@@ -181,12 +181,12 @@ This button provides a one-click deployment to Vercel, which is very convenient.
 
 1. The link in the button points to the original repository (https://github.com/snakeying/GPT-Telegram-Bot).
 2. If you've forked this project and want to deploy your own version, you need to update this button link in the README.
-3. Update method: Replace `snakeying/GPT-Telegram-Bot` in the link with your GitHub username and repository name.
+3. Update method: Replace `enotkrutoy/GPT-Telegram-Bot` in the link with your GitHub username and repository name.
 
 For example, if your GitHub username is "yourname", you should change the button link to:
 
 ```markdown
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourname%2FGPT-Telegram-Bot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2enotkrutoy%2FGPT-Telegram-Bot)
 ```
 
 This ensures that the "Deploy to Vercel" button will deploy your forked version, not the original repository.
