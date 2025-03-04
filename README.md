@@ -5,7 +5,7 @@
 GPT-Telegram-Bot is a powerful Telegram bot that integrates various AI models, providing intelligent conversations, image generation and analysis capabilities.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2enotkrutoy%2FGPT-Telegram-Bot)
-
+#[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourname%2FGPT-Telegram-Bot)
 ## Main Features 🌟
 
 1. **Multi-model Support** 🎭: Any model compatible with OpenAI API, Google Gemini, Anthropic Claude, Groq, and Azure OpenAI
